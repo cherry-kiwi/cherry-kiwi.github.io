@@ -1,14 +1,17 @@
 ---
-layout: default
+title: "Page not found"
+description: "Page not found"
 permalink: /404.html
-title: 404 Not Found
+sitemap: false
+layout: default
 ---
-<header>
-  <h1 class="header-small">
-    <a href="{{site.url}}{{site.baseurl}}">{{ site.name }}</a>
-  </h1>
-</header>
-<div class="page">
-  <h1 class="page-title">{{ page.title }}</h1>
-  <span>Sorry, but the page you were trying to view does not exist.</span>
+
+<div class="notfound-wrapper">
+  <div class="notfound-content">
+    <p>
+      Looks like you got lost.
+      <br>
+      Let's get you back to the <a href="{{ '/' | relative_url }}">homepage</a>!
+    </p>
+  </div>
 </div>
