@@ -1,24 +1,25 @@
-title: Your Site Title
-description: The description of your site.
-email: your-email@address.com
+theme: jekyll-theme-persephone
+title: Cherry Kiwi
+description: 게임 분석 아카이브
+email: hmongsangga@gmail.com
 
 author: Your name #  Default is your site title.
 
 # Your social accounts.
 social:
-  github: github_username
-  twitter: twitter_username
-  facebook: facebook_username
-  instagram: instagram_username
-  linkedin: linkedin_username
-  weibo: weibo_username
+  github: cherry-kiwi
+  twitter: 
+  facebook: 
+  instagram: 
+  linkedin: 
+  weibo: 
 
 # Theme Settings
 
 # Your site's logo. Will be shown on the left top of your page.
 logo: /img/logo.svg
 # If the images of our blog are stored in an external cloud. You can use the jekyll-img-prefix plugin and set your images' base URL here.
-img_prefix: https://your-img-cdn.com
+img_prefix: 
 # The RSS link of your blog.
 rss: "/feed.xml"
 
@@ -48,11 +49,11 @@ theme_setting:
     blog_title: Blog # The text of ← back url on the top of the post layout.  Default is 'Home'.
     # The locales of the comment controls.
     comment:
-      user: "昵称"
-      email: "邮箱"
-      url: "链接"
-      message: "说点什么吧..."
-      reply: "回复"
+      user: "이름"
+      email: "이메일"
+      url: "홈페이지"
+      message: "댓글을 입력하세요..."
+      reply: "답글"
 
 head_code: |
   <!-- Extra codes in the head of your site pages. You can add your Google Analysis codes here! -->
@@ -60,7 +61,7 @@ head_code: |
 # The settings of comments.
 comment:
   # You should set it to enable comment
-  enabled: true
+  enabled: false
   # Your comment provider
   provider: disqus # static/disqus
   # If provider == disqus
@@ -72,5 +73,5 @@ comment:
     postUrl:  https://api.staticman.net/v2/connect/GITHUB-USERNAME/GITHUB-REPOSITORY
 # The settings of local smileys used in static comments. The jekyll-smiley plugin is required.
 smiley:
-  enabled: true
+  enabled: false
   dir: img/smileys
