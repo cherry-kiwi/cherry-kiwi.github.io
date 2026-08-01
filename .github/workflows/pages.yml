@@ -39,7 +39,9 @@ jobs:
 
       - name: Build CSS
         run: npm run build
-
+        env:
+          NODE_OPTIONS: --openssl-legacy-provider
+          
       - name: Build site
         run: bundle exec jekyll build
 
