@@ -1,4 +1,6 @@
-theme: jekyll-theme-persephone
+plugins:
+  - jekyll-feed
+# theme: jekyll-theme-persephone
 title: 게임 분석 일지
 description: game Analysis · Game Design
 email: hmongsangga@gmail.com
