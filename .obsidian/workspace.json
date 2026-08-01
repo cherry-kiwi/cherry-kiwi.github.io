@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/2026-08-02-templete.md",
+                "file": "_posts/2026-08-02-game-analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-02-templete"
+              "title": "2026-08-02-game-analysis"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/2026-08-02-templete.md",
+                "file": "_posts/2026-08-02-game-analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/2026-08-02-templete.md",
+                "file": "_posts/2026-08-02-game-analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/2026-08-02-templete.md",
+                "file": "_posts/2026-08-02-game-analysis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,12 +188,12 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "d086c15b110eb0b9",
+  "active": "00f247b27a4153ad",
   "lastOpenFiles": [
-    "무제.md",
     "Templates/2026-08-02-templete.md",
-    "_posts/2026-08-03-게임이름.md.md",
     "_posts/2026-08-02-game-analysis.md",
+    "_posts/2026-08-03-게임이름.md.md",
+    "무제.md",
     "_posts/2026-08-02-first-post.md",
     "글 작성 가이드.md",
     "Game Analysis.md",
