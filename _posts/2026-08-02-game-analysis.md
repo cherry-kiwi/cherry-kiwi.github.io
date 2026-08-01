@@ -5,4 +5,11 @@ date: 2026-08-02 00:00:00 +0900
 categories:
   - Game
   - Analysis
+game: "마비노기 모바일"
+platform: "Mobile"
+tags:
+  - UI
+  - UX
+  - Dye
+  - Customization
 ---
