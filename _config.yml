@@ -3,10 +3,11 @@
 # # # # # # # #
 
 # Basic
-name:               "Kiko"
+name: "Cherry Kiwi"
 
 # URL
-baseurl:            "/Kiko"
+url: "https://cherry-kiwi.github.io"
+baseurl: ""
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
@@ -15,11 +16,11 @@ markdown:           rdiscount
 
 # Navigation
 nav:
-  - name:           "About"
-    href:           "//gfjaru.github.io/Kiko/about"
-  - name:           "Download"
-    href:           "//github.com/gfjaru/Kiko/releases"
+  - name: "About"
+    href: "/about"
 
+  - name: "GitHub"
+    href: "https://github.com/cherry-kiwi/cherry-kiwi.github.io"
 # Sass
 sass:
   style:            :compressed
