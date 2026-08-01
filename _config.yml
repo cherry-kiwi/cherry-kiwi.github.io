@@ -1,8 +1,11 @@
+url: "https://cherry-kiwi.github.io"
+baseurl: ""
+
 plugins:
   - jekyll-feed
 # theme: jekyll-theme-persephone
 title: 게임 분석 일지
-description: game Analysis · Game Design
+description: Game Analysis · Game Design
 email: hmongsangga@gmail.com
 
 author: 안나원 #  Default is your site title.
