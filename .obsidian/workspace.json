@@ -190,13 +190,19 @@
   },
   "active": "00f247b27a4153ad",
   "lastOpenFiles": [
-    "_posts/2026-08-02-first-post.md",
-    "_posts/2026-08-02-game-analysis.md",
+    "blog/index.md",
+    "index.md",
+    "README.md",
+    "CHANGELOG.md",
+    "Game Analysis.md",
+    "archive.md",
+    "about.md",
+    "글 작성 가이드.md",
     "Templates/2026-08-02-templete.md",
+    "_posts/2026-08-02-game-analysis.md",
+    "_posts/2026-08-02-first-post.md",
     "_posts/2026-08-03-게임이름.md.md",
     "무제.md",
-    "글 작성 가이드.md",
-    "Game Analysis.md",
     "Templates"
   ]
 }
