@@ -1,16 +1,14 @@
----
+----
 layout: post
 title: ""
-date: 2026-08-02 00:00:00 +0900
+date: {{date}} 00:00:00 +0900
 categories:
   - Game Analysis
-  - Game Design
-  - UI/UX
 ---
 
 # 한 줄 요약
 
-## 분석한 이유
+## 분석 이유
 
 ## 플레이 경험
 
