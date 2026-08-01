@@ -1,29 +1,25 @@
 ---
 layout: default
 ---
-<header class="masthead">        
-  <h1 class="masthead-title">
-    <a href="{{ site.baseurl }}/">{{ site.name }}<span>&#39;s blog</span></a>
-  </h1>
-  <nav class="masthead-nav">
-    {% for nav in site.nav %}
-    <a href="{{ nav.href }}">{{ nav.name }}</a>
-    {% endfor %}
-  </nav>
-</header>
-<div class="content list">
-{% if site.posts.size == 0 %}
-  <h2>No post found</h2>
-{% else %}
-{% for post in site.posts %}
-  <div class="list-item">
-    <h2 class="list-post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    </h2>
-    <div class="list-post-date">
-      <time>{{ post.date | date_to_string }}</time>
+<main class="container">
+  <div class="row">
+    <div class="col-2">
+      <h1>{{ site.title }}</h1>
+      <p class="lead">
+          <br/>{{ site.desc }}
+      </p>
+      <article>
+        <h1>Posts</h1>
+      </article>
+      {% for post in paginator.posts %}
+      <article>
+        <h1>{{ post.title }}</h1>
+        <p>{{ post.excerpt }}</p>
+        <a href="{{ site.baseurl }}/{{ post.url }}">[ Read ]</a>
+      </article>
+      {% endfor %}
+      {% include buttons.html %}
     </div>
+    {% include sidebar.html %}
   </div>
-{% endfor %}
-{% endif %}
-</div>
+</main>
