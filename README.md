@@ -1,2 +1,7 @@
-# cherry-kiwi.github.io
-게임 분석 아카이브용 블로그
+# Kiko
+
+[Kiko](http://github.com/gfjaru/Kiko) is a theme for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@gfjaru](https://twitter.com/gfjaru).
+
+# License
+
+Released under MIT License.
