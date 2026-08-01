@@ -1,8 +1,8 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          Cerry Kiwi
+description:    "게임 분석 아카이브"
+baseurl:        ""
+url:            "https://cherry-kiwi.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
