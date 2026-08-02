@@ -26,9 +26,21 @@ layout: default
         <time>{{ page.date | date: "%Y-%m-%d %H:%M" }}</time>
       </div>
     </header>
+    
     <div class="post__content content">
       {{ content | toc | img_prefix }}
     </div>
+
+    {% if page.tags %}
+    <div class="post__tags">
+      <span>🏷</span>
+      {% for tag in page.tags %}
+        <a class="post__tag" href="{{ '/tags/#' | append: tag | slugify | relative_url }}">
+          {{ tag }}
+        </a>
+      {% endfor %}
+    </div>
+    {% endif %}
   </article>
   {%- if site.comment.enabled -%}
   {% include comments.html -%}
