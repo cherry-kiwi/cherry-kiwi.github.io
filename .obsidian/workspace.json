@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "_posts/2026-08-02-game-analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README.md"
+              "title": "2026-08-02-game-analysis"
             }
           }
         ],
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 216.5
   },
   "right": {
     "id": "3a134650d16ae10f",
@@ -217,9 +217,10 @@
   },
   "active": "1239cac7428353c4",
   "lastOpenFiles": [
-    "README.md",
-    "README.md.md",
+    "Templates/2026-08-02-templete.md",
     "_posts/2026-08-02-game-analysis.md",
+    "README.md.md",
+    "README.md",
     "blog/index.md",
     "index.md",
     "CHANGELOG.md",
@@ -227,7 +228,6 @@
     "archive.md",
     "about.md",
     "글 작성 가이드.md",
-    "Templates/2026-08-02-templete.md",
     "_posts/2026-08-02-first-post.md",
     "_posts/2026-08-03-게임이름.md.md",
     "Templates"
