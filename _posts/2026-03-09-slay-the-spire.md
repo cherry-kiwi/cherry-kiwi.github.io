@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ""
-date: 2026-08-02 00:00:00 +0900
+title: 리스크 · 보상 구조를 만드는 맵 시스템 분석
+date: 2026-03-09 00:00:00 +0900
 categories:
   - Game Analysis
   - Game Design
