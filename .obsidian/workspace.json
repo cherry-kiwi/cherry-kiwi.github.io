@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-03-20-게임 경제 디자인-인플레이션과 희소성.md",
+                "file": "_posts/2026-03-21-게임 경제 디자인-단일 재화 집중형 경제.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-20-게임 경제 디자인-인플레이션과 희소성"
+              "title": "2026-03-21-게임 경제 디자인-단일 재화 집중형 경제"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 200
   },
   "right": {
     "id": "3a134650d16ae10f",
@@ -202,22 +202,23 @@
   },
   "active": "1239cac7428353c4",
   "lastOpenFiles": [
-    "_posts/2026-03-19-게임 경제 디자인-코어 플레이 루프와 경제 시스템.md",
     "_posts/2026-03-20-게임 경제 디자인-인플레이션과 희소성.md",
+    "_posts/2026-03-21-게임 경제 디자인-단일 재화 집중형 경제.md",
+    "assets/images/Lecture/게임경제/게임경제6강썸넬.png",
+    "assets/images/Lecture/게임경제/Pasted image 20260803230606.png",
+    "_posts/2026-03-19-게임 경제 디자인-코어 플레이 루프와 경제 시스템.md",
+    "_posts/2026-03-18-게임 경제 디자인-패턴과 밸런스 설계.md",
+    "_posts/2026-03-17-게임 경제 디자인-패턴과 밸런스 설계.md",
+    "_posts/2026-03-12-게임 경제 디자인-패턴과 밸런스 설계.md",
     "_site/assets/images/Lecture/게임경제/게임경제5강썸넬.png",
     "assets/images/Lecture/게임경제/게임경제5강썸넬.png",
     "_site/assets/images/Lecture/게임경제/Pasted image 20260803225137.png",
     "assets/images/Lecture/게임경제/Pasted image 20260803225137.png",
-    "_posts/2026-03-18-게임 경제 디자인-패턴과 밸런스 설계.md",
     "_posts/2026-02-25-pixel-flow-linear-level-design-analysis.md",
-    "_posts/2026-03-12-게임 경제 디자인-패턴과 밸런스 설계.md",
-    "_posts/2026-03-17-게임 경제 디자인-패턴과 밸런스 설계.md",
     "_site/assets/images/Lecture/게임경제/게임경제4강이미지5.png",
     "assets/images/Lecture/게임경제/게임경제4강이미지5.png",
     "_site/assets/images/Lecture/게임경제/Pasted image 20260803224249.png",
     "assets/images/Lecture/게임경제/Pasted image 20260803224249.png",
-    "_site/assets/images/Lecture/게임경제/Pasted image 20260803224237.png",
-    "assets/images/Lecture/게임경제/Pasted image 20260803224237.png",
     "_site/lecture/2026/08/02/게임-경제-디자인-패턴과-밸런스-설계-1.html",
     "_posts/2026-08-03-mabinogi-mobile-fantasy-life-challenge.md",
     "_posts/2026-08-02-game-analysis.md",
