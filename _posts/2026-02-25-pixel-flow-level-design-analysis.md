@@ -5,8 +5,8 @@ date: 2026-08-02 00:00:00 +0900
 categories:
   - Data Archive
 tags:
-  - MabinogiMobile
-  - GuideMission
+  - PixelFlow
+  - LevelDesign
 ---
 [관련 문서](https://docs.google.com/spreadsheets/d/15nQuqsTA4XFvX1pGCW6djkUtKRWZV7UT1dm1KDcOTBk/edit?usp=sharing)
 
