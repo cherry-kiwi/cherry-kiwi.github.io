@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-03-18-게임 경제 디자인-패턴과 밸런스 설계.md",
+                "file": "_posts/2026-03-12-게임 경제 디자인-패턴과 밸런스 설계.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-18-게임 경제 디자인-패턴과 밸런스 설계"
+              "title": "2026-03-12-게임 경제 디자인-패턴과 밸런스 설계"
             }
           }
         ]
@@ -223,18 +223,21 @@
   },
   "active": "1239cac7428353c4",
   "lastOpenFiles": [
+    "Pasted image 20260803103359.png",
+    "assets/images/게임경제1강이미지.png",
+    "assets/images/Pasted image 20260803103359.png",
+    "_posts/2026-03-12-게임 경제 디자인-패턴과 밸런스 설계.md",
+    "_posts/2026-03-18-게임 경제 디자인-패턴과 밸런스 설계.md",
+    "assets/images",
     "Pasted image 20260803104131.png",
     "Pasted image 20260803104114.png",
     "Pasted image 20260803104104.png",
     "Pasted image 20260803104028.png",
     "Pasted image 20260803104019.png",
     "_posts/2026-03-17-게임 경제 디자인-패턴과 밸런스 설계.md",
-    "_posts/2026-03-18-게임 경제 디자인-패턴과 밸런스 설계.md",
     "Pasted image 20260803103940.png",
     "Pasted image 20260803103830.png",
-    "_posts/2026-03-12-게임 경제 디자인-패턴과 밸런스 설계.md",
     "Pasted image 20260803103349.png",
-    "Pasted image 20260803103359.png",
     "_posts/2026-08-03-mabinogi-mobile-fantasy-life-challenge.md",
     "assets/custom.css",
     "_posts/2026-08-02-mabinogi-mobile-dying-system-analysis.md",
@@ -247,7 +250,6 @@
     "_site/game analysis/data archive/game review/ui/ux/lecture",
     "_site/game analysis/data archive/game review/ui/ux",
     "_site/game analysis/data archive/game review/ui",
-    "_site/game analysis/data archive/game review",
     "_site/README.md.md",
     "Templates/2026-08-02-templete.md",
     "blog/index.md",
