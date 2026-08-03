@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-08-02-game-analysis.md",
+                "file": "_posts/2026-08-03-mabinogi-mobile-fantasy-life-challenge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-02-game-analysis"
+              "title": "2026-08-03-mabinogi-mobile-fantasy-life-challenge"
             }
           }
         ]
@@ -179,14 +179,33 @@
               "icon": "lucide-ghost",
               "title": "git-view"
             }
+          },
+          {
+            "id": "9e04c99661621fe0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "b6edd86b60f7ec02",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 223.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,13 +216,14 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "bases:새 베이스 생성하기": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1239cac7428353c4",
+  "active": "b6edd86b60f7ec02",
   "lastOpenFiles": [
+    "_posts/2026-08-02-mabinogi-mobile-dying-system-analysis.md",
     "_posts/2026-08-03-mabinogi-mobile-fantasy-life-challenge.md",
-    "_posts/2026-08-02-game-analysis.md",
     "_posts/2026-03-09-slay-the-spire.md",
     "_site/game analysis/data archive/game review/ui/ux/lecture/2026/08/02/game-analysis.html",
     "_site/game analysis/data archive/game review/ui/ux/lecture/2026/08/02",
