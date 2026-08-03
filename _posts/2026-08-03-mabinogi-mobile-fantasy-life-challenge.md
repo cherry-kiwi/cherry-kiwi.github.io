@@ -8,7 +8,7 @@ tags:
   - 모비노기
   - 가이드미션
 ---
-https://docs.google.com/spreadsheets/d/15nQuqsTA4XFvX1pGCW6djkUtKRWZV7UT1dm1KDcOTBk/edit?usp=sharing
+[관련 문서](https://docs.google.com/spreadsheets/d/15nQuqsTA4XFvX1pGCW6djkUtKRWZV7UT1dm1KDcOTBk/edit?usp=sharing)
 
 | 단계  | 순번  |       미션       |  수치   |
 | :-: | :-: | :------------: | :---: |
