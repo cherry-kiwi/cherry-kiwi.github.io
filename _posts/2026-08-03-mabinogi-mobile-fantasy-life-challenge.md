@@ -8,7 +8,7 @@ tags:
   - 모비노기
   - 가이드미션
 ---
-![[마비노기 모바일 판타지 라이프 챌린지.xlsx]]
+https://docs.google.com/spreadsheets/d/15nQuqsTA4XFvX1pGCW6djkUtKRWZV7UT1dm1KDcOTBk/edit?usp=sharing
 
 | 단계  | 순번  |       미션       |  수치   |
 | :-: | :-: | :------------: | :---: |
