@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "_posts/2026-08-03-mabinogi-mobile-fantasy-life-challenge.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 216.5,
+    "collapsed": true
   },
   "right": {
     "id": "3a134650d16ae10f",
