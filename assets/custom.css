@@ -1,0 +1,19 @@
+/* ===== Link ===== */
+
+.content a {
+    color: #ca7288;
+    text-decoration: underline;
+}
+
+/* ===== Table ===== */
+
+.content table {
+    width: auto;
+    max-width: 100%;
+    margin: 1.5rem auto;
+}
+
+.content th,
+.content td {
+    padding: 10px 16px;
+}
