@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 마비노기 모바일 판타지 라이프 챌린지
+title: Pixel Flow의 선형적 레벨 디자인 구조 분석
 date: 2026-08-02 00:00:00 +0900
 categories:
   - Data Archive
