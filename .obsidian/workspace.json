@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-03-12-게임 경제 디자인-패턴과 밸런스 설계.md",
+                "file": "_posts/2026-02-25-pixel-flow-linear-level-design-analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-12-게임 경제 디자인-패턴과 밸런스 설계"
+              "title": "2026-02-25-pixel-flow-linear-level-design-analysis"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.31251525878906
+    "width": 200
   },
   "right": {
     "id": "3a134650d16ae10f",
@@ -223,8 +223,13 @@
   },
   "active": "1239cac7428353c4",
   "lastOpenFiles": [
-    "_posts/2026-03-17-게임 경제 디자인-패턴과 밸런스 설계.md",
+    "assets/images/Analysis/2026-02-25/1.png",
+    "assets/images/Analysis/2026-02-25/Pasted image 20260803175646.png",
+    "assets/images/Analysis/2026-02-25",
+    "assets/images/Analysis/Pasted image 20260803175646.png",
+    "assets/images/Analysis",
     "_posts/2026-03-12-게임 경제 디자인-패턴과 밸런스 설계.md",
+    "_posts/2026-03-17-게임 경제 디자인-패턴과 밸런스 설계.md",
     "_posts/2026-03-18-게임 경제 디자인-패턴과 밸런스 설계.md",
     "_posts/2026-03-19-게임 경제 디자인-코어 플레이 루프와 경제 시스템.md",
     "_posts/2026-02-25-pixel-flow-linear-level-design-analysis.md",
@@ -236,8 +241,6 @@
     "assets/images/Lecture/게임경제/게임경제5강썸넬.png",
     "assets/images/Lecture/게임경제/게임경제4강이미지5.png",
     "assets/images/Lecture/게임경제/게임경제4강이미지4.png",
-    "assets/images/Lecture/게임경제/게임경제4강이미지3.png",
-    "assets/images/Lecture/게임경제/게임경제4강이미지2.png",
     "_posts/2026-03-22-게임 경제 디자인-이중 통화 경제의 이해.md",
     "_posts/2026-03-21-게임 경제 디자인-단일 재화 집중형 경제.md",
     "_posts/2026-03-20-게임 경제 디자인-인플레이션과 희소성.md",
@@ -255,8 +258,6 @@
     "_site/game analysis/data archive/game review/ui/ux/lecture/2026/08/02/game-analysis.html",
     "_site/game analysis/data archive/game review/ui/ux/lecture/2026/08/02",
     "_site/game analysis/data archive/game review/ui/ux/lecture/2026/08",
-    "_site/game analysis/data archive/game review/ui/ux/lecture/2026",
-    "_site/game analysis/data archive/game review/ui/ux/lecture",
     "_site/README.md.md",
     "Templates/2026-08-02-templete.md",
     "blog/index.md",
