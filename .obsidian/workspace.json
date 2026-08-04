@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2026-02-25-pixel-flow-linear-level-design-analysis"
             }
+          },
+          {
+            "id": "df8b3b38efe2dd3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 328.31251525878906
   },
   "right": {
     "id": "3a134650d16ae10f",
@@ -221,15 +236,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1239cac7428353c4",
+  "active": "df8b3b38efe2dd3f",
   "lastOpenFiles": [
     "_posts/2026-03-19-게임 경제 디자인-패턴과 밸런스 설계 1.md",
+    "_posts/2026-02-25-pixel-flow-linear-level-design-analysis.md",
+    "conflict-files-obsidian-git.md",
+    "assets/images/Lecture/게임경제/게임경제4강이미지1.png",
+    "assets/images/Lecture/게임경제/게임경제4강썸넬.png",
+    "_posts/2026-03-19-게임 경제 디자인-코어 플레이 루프와 경제 시스템.md",
     "assets/images/Lecture/게임경제/Pasted image 20260803175646.png",
     "_posts/2026-08-03-mabinogi-mobile-fantasy-life-challenge.md",
     "_posts/2026-03-18-게임 경제 디자인-패턴과 밸런스 설계.md",
     "_posts/2026-03-17-게임 경제 디자인-패턴과 밸런스 설계.md",
     "_posts/2026-03-12-게임 경제 디자인-패턴과 밸런스 설계.md",
-    "_posts/2026-02-25-pixel-flow-linear-level-design-analysis.md",
     "_posts/2026-08-02-mabinogi-mobile-dying-system-analysis.md",
     "assets/images/Lecture/게임경제/게임경제1강썸넬.png",
     "assets/images/Lecture/게임경제",
@@ -240,8 +259,6 @@
     "assets/images/Lecture/게임경제/게임경제3강이미지3.png",
     "assets/images/Lecture/게임경제/게임경제3강이미지2.png",
     "assets/images/Lecture/게임경제/게임경제3강이미지1.png",
-    "assets/images/Pasted image 20260803104114.png",
-    "게임경제2강썸넬.png",
     "README.md",
     "assets/images",
     "assets/custom.css",
