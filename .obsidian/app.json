@@ -1,4 +1,5 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "assets/images/Lecture/게임경제"
+  "attachmentFolderPath": "assets/images",
+  "alwaysUpdateLinks": true
 }
