@@ -1,12 +1,13 @@
 ---
 layout: post
-title: 메이플 키우기 설정 UI/UX
+title: 버섯커 키우기 설정 UI/UX
 date: 2026-08-06 00:00:00 +0900
 categories:
   - UI/UX
 tags:
-  - MapleStoryIdleRPG
   - Setting
+  - LegendOfMushroom
+  - se
 ---
 ### 계정
 
