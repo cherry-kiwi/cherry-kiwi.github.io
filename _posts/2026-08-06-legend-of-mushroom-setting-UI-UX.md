@@ -8,4 +8,4 @@ tags:
   - LegendOfMushroom
   - Setting
 ---
-<img src="/assets/images/UIUX/legendOfMushroom/setting/file.png" width="700">
+<img src="/assets/images/UIUX/legendOfMushroom/setting/File.png" width="700">
