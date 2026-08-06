@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-08-06-cookierun-kingdom-setting-UI-UX.md",
+                "file": "_posts/2026-03-23-게임 경제 디자인-다중 재화 역할 분담형 경제.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-06-cookierun-kingdom-setting-UI-UX"
+              "title": "2026-03-23-게임 경제 디자인-다중 재화 역할 분담형 경제"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:se",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.31251525878906
+    "width": 268.5
   },
   "right": {
     "id": "3a134650d16ae10f",
@@ -179,16 +179,6 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "25b42036e8e4c41f",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
           }
         ],
         "currentTab": 5
@@ -200,7 +190,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -213,51 +202,51 @@
   },
   "active": "1239cac7428353c4",
   "lastOpenFiles": [
-    "assets/images/UIUX/cookierunKingdom/setting/18.png",
-    "assets/images/UIUX/cookierunKingdom/setting/17.png",
-    "assets/images/UIUX/cookierunKingdom/setting/16.png",
-    "assets/images/UIUX/cookierunKingdom/setting/15.png",
-    "assets/images/UIUX/cookierunKingdom/setting/14.png",
-    "assets/images/UIUX/cookierunKingdom/setting/13.png",
-    "assets/images/UIUX/cookierunKingdom/setting/12.png",
-    "assets/images/UIUX/cookierunKingdom/setting/11.png",
-    "assets/images/UIUX/cookierunKingdom/setting/10.png",
-    "assets/images/UIUX/cookierunKingdom/setting/9.png",
-    "assets/images/UIUX/cookierunKingdom/setting/8.png",
+    "tags.md",
+    "assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0380.PNG",
+    "assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0379.PNG",
+    "assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0377.PNG",
+    "assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0374.PNG",
+    "assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0373.PNG",
+    "assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0376.PNG",
+    "assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0371.PNG",
+    "assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0372.PNG",
+    "assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0370.PNG",
+    "assets/images/UIUX/mabinogi/setting/IMG_0363.PNG",
+    "assets/images/UIUX/maplestoryIdleRPG/setting",
+    "assets/images/UIUX/mabinogi/setting",
+    "assets/images/UIUX/legendOfMushroom/setting",
+    "assets/images/UIUX/idleDemonKing/setting",
+    "assets/images/UIUX/cookierunKingdom/setting",
+    "assets/images/UIUX/cookierunOvenbreak/setting",
+    "assets/images/UIUX/archero/setting",
+    "assets/images/UIUX/maplestoryIdleRPG",
+    "assets/images/UIUX/mabinogi",
+    "assets/images/UIUX/legendOfMushroom",
+    "_posts/2026-08-06-maplestory-idle-rpg-setting-UI-UX.md",
+    "_posts/2026-08-06-mabinogi-mobile-setting-UI-UX.md",
+    "_posts/2026-08-06-legend-of-mushroom-setting-UI-UX.md",
+    "_posts/2026-08-06-idle-demon-king-setting-UI-UX.md",
     "_posts/2026-08-06-cookierun-ovenbreak-setting-UI-UX.md",
     "_posts/2026-08-06-cookierun-kingdom-setting-UI-UX.md",
-    "assets/images/UIUX/cookierunKingdom/setting",
-    "assets/images/UIUX/cookierunKingdom/새 폴더",
-    "assets/images/UIUX/cookierunKingdom",
-    "assets/images/UIUX/새 폴더",
-    "assets/images/UIUX/cookierunOvenbreak/setting",
-    "assets/images/UIUX/cookierunOvenbreak/새 폴더",
-    "assets/images/UIUX/cookierunOvenbreak",
-    "_posts/2026-08-06-maplestory-idle-rpg-setting-UI-UX.md",
-    "_posts/2026-08-06-legend-of-mushroom-setting-UI-UX.md",
-    "assets/images/UIUX/legendOfMushroom/setting",
-    "assets/images/UIUX/legendOfMushroom/새 폴더",
-    "_posts/2026-08-06-mabinogi-mobile-setting-UI-UX.md",
-    "assets/images/UIUX/legendOfMushroom",
-    "_posts/2026-08-06-idle-demon-king-setting-UI-UX.md",
     "_posts/2026-08-06-archero-setting-UI-UX.md",
-    "_posts/2026-08-03-mabinogi-mobile-fantasy-life-challenge.md",
-    "tags.md",
     "_posts/2026-03-23-게임 경제 디자인-다중 재화 역할 분담형 경제.md",
-    "_posts/2026-02-25-pixel-flow-linear-level-design-analysis.md",
-    "_posts/2026-03-17-게임 경제 디자인-패턴과 밸런스 설계.md",
     "_posts/2026-03-22-게임 경제 디자인-이중 통화 경제의 이해.md",
     "_posts/2026-03-18-게임 경제 디자인-패턴과 밸런스 설계.md",
     "_posts/2026-03-21-게임 경제 디자인-단일 재화 집중형 경제.md",
     "_posts/2026-03-20-게임 경제 디자인-인플레이션과 희소성.md",
     "_posts/2026-03-19-게임 경제 디자인-코어 플레이 루프와 경제 시스템.md",
+    "_posts/2026-03-17-게임 경제 디자인-패턴과 밸런스 설계.md",
     "_posts/2026-03-12-게임 경제 디자인-패턴과 밸런스 설계.md",
+    "_posts/2026-02-25-pixel-flow-linear-level-design-analysis.md",
+    "_posts/2026-08-03-mabinogi-mobile-fantasy-life-challenge.md",
     "_posts/2026-08-02-game-analysis.md",
     "_posts/2026-03-09-slay-the-spire.md",
     "_site/README.md.md",
     "Templates/2026-08-02-templete.md",
     "blog/index.md",
     "README.md.md",
-    "README.md"
+    "README.md",
+    "index.md"
   ]
 }
