@@ -32,14 +32,18 @@ layout: default
     </div>
 
     {% if page.tags %}
-    <div class="post__tags">
-      <span>🏷</span>
-      {% for tag in page.tags %}
-        <a class="post__tag" href="{{ '/tags/#' | append: tag | slugify | relative_url }}">
-          {{ tag }}
-        </a>
-      {% endfor %}
-    </div>
+      <div class="post__tags">
+        <span class="post__tags_label">Tags</span>
+
+        {% for tag in page.tags %}
+          <a
+            class="post__tag"
+            href="{{ '/tags/#' | append: tag | slugify | relative_url }}"
+          >
+            #{{ tag }}
+          </a>
+        {% endfor %}
+      </div>
     {% endif %}
   </article>
   {%- if site.comment.enabled -%}

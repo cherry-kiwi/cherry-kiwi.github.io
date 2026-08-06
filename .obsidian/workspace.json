@@ -213,6 +213,8 @@
   },
   "active": "1239cac7428353c4",
   "lastOpenFiles": [
+    "_layouts/tags.html",
+    "tags.md",
     "_posts/2026-08-06-archero-UI-UX.md",
     "_posts/2026-08-06-mabinogi-mobile-UI-UX.md",
     "_posts/2026-08-03-mabinogi-mobile-fantasy-life-challenge.md",
@@ -256,7 +258,6 @@
     "CHANGELOG.md",
     "Game Analysis.md",
     "archive.md",
-    "about.md",
-    "글 작성 가이드.md"
+    "about.md"
   ]
 }
