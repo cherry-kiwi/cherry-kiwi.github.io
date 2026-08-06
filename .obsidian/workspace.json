@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:se",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,8 +213,15 @@
   },
   "active": "1239cac7428353c4",
   "lastOpenFiles": [
-    "_posts/2026-08-06-maplestory-idle-rpg-setting-UI-UX.md",
+    "assets/images/UIUX/legendOfMushroom/setting/File.png",
+    "assets/images/UIUX/legendOfMushroom/setting",
+    "assets/images/UIUX/legendOfMushroom/새 폴더",
+    "_posts/2026-08-06-mabinogi-mobile-setting-UI-UX.md",
     "_posts/2026-08-06-legend-of-mushroom-setting-UI-UX.md",
+    "assets/images/UIUX/legendOfMushroom/File.png",
+    "assets/images/UIUX/legendOfMushroom",
+    "assets/images/UIUX/새 폴더",
+    "_posts/2026-08-06-maplestory-idle-rpg-setting-UI-UX.md",
     "_posts/2026-08-06-idle-demon-king-setting-UI-UX.md",
     "assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0380.PNG",
     "assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0379.PNG",
@@ -226,19 +233,13 @@
     "assets/images/UIUX/idleDemonKing/setting",
     "assets/images/UIUX/idleDemonKing/새 폴더",
     "assets/images/UIUX/idleDemonKing",
-    "assets/images/UIUX/새 폴더",
-    "_posts/2026-08-06-mabinogi-mobile-setting-UI-UX.md",
     "_posts/2026-08-06-archero-setting-UI-UX.md",
     "_posts/2026-08-03-mabinogi-mobile-fantasy-life-challenge.md",
     "assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0377.PNG",
     "assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0376.PNG",
-    "assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0374.PNG",
     "assets/images/UIUX/maplestoryIdleRPG/setting",
     "assets/images/UIUX/maplestoryIdleRPG/Setting",
     "assets/images/UIUX/maplestoryIdleRPG/새 폴더",
-    "assets/images/UIUX/maplestoryIdleRPG",
-    "assets/images/UIUX/maplestory",
-    "assets/images/UIUX/maple",
     "tags.md",
     "_posts/2026-03-23-게임 경제 디자인-다중 재화 역할 분담형 경제.md",
     "_posts/2026-02-25-pixel-flow-linear-level-design-analysis.md",
@@ -257,7 +258,6 @@
     "README.md.md",
     "README.md",
     "index.md",
-    "CHANGELOG.md",
-    "Game Analysis.md"
+    "CHANGELOG.md"
   ]
 }
