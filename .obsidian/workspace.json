@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-08-06-cookierun-ovenbreak-setting-UI-UX.md",
+                "file": "_posts/2026-08-06-cookierun-kingdom-setting-UI-UX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-06-cookierun-ovenbreak-setting-UI-UX"
+              "title": "2026-08-06-cookierun-kingdom-setting-UI-UX"
             }
           }
         ]
@@ -213,26 +213,27 @@
   },
   "active": "1239cac7428353c4",
   "lastOpenFiles": [
-    "assets/images/UIUX/cookierunKingdom/setting/스크린샷 2026-08-06 145246.png",
-    "assets/images/UIUX/cookierunKingdom/setting/스크린샷 2026-08-06 145232.png",
-    "assets/images/UIUX/cookierunKingdom/setting/스크린샷 2026-08-06 145221.png",
-    "assets/images/UIUX/cookierunKingdom/setting/스크린샷 2026-08-06 145213.png",
-    "assets/images/UIUX/cookierunKingdom/setting/스크린샷 2026-08-06 145011.png",
-    "assets/images/UIUX/cookierunKingdom/setting/스크린샷 2026-08-06 145000.png",
-    "assets/images/UIUX/cookierunKingdom/setting/스크린샷 2026-08-06 144942.png",
-    "assets/images/UIUX/cookierunKingdom/setting/스크린샷 2026-08-06 144929.png",
-    "assets/images/UIUX/cookierunKingdom/setting/스크린샷 2026-08-06 144913.png",
+    "assets/images/UIUX/cookierunKingdom/setting/18.png",
+    "assets/images/UIUX/cookierunKingdom/setting/17.png",
+    "assets/images/UIUX/cookierunKingdom/setting/16.png",
+    "assets/images/UIUX/cookierunKingdom/setting/15.png",
+    "assets/images/UIUX/cookierunKingdom/setting/14.png",
+    "assets/images/UIUX/cookierunKingdom/setting/13.png",
+    "assets/images/UIUX/cookierunKingdom/setting/12.png",
+    "assets/images/UIUX/cookierunKingdom/setting/11.png",
+    "assets/images/UIUX/cookierunKingdom/setting/10.png",
+    "assets/images/UIUX/cookierunKingdom/setting/9.png",
+    "assets/images/UIUX/cookierunKingdom/setting/8.png",
+    "_posts/2026-08-06-cookierun-ovenbreak-setting-UI-UX.md",
+    "_posts/2026-08-06-cookierun-kingdom-setting-UI-UX.md",
     "assets/images/UIUX/cookierunKingdom/setting",
     "assets/images/UIUX/cookierunKingdom/새 폴더",
-    "assets/images/UIUX/cookierunKingdom/스크린샷 2026-08-06 144253.png",
     "assets/images/UIUX/cookierunKingdom",
     "assets/images/UIUX/새 폴더",
-    "assets/images/UIUX/cookierunOvenbreak/setting/IMG_1108.PNG",
     "assets/images/UIUX/cookierunOvenbreak/setting",
     "assets/images/UIUX/cookierunOvenbreak/새 폴더",
     "assets/images/UIUX/cookierunOvenbreak",
     "_posts/2026-08-06-maplestory-idle-rpg-setting-UI-UX.md",
-    "_posts/2026-08-06-cookierun-ovenbreak-setting-UI-UX.md",
     "_posts/2026-08-06-legend-of-mushroom-setting-UI-UX.md",
     "assets/images/UIUX/legendOfMushroom/setting",
     "assets/images/UIUX/legendOfMushroom/새 폴더",
@@ -257,7 +258,6 @@
     "Templates/2026-08-02-templete.md",
     "blog/index.md",
     "README.md.md",
-    "README.md",
-    "index.md"
+    "README.md"
   ]
 }
