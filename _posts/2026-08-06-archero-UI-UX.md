@@ -6,6 +6,7 @@ categories:
   - UI/UX
 tags:
   - Archero
+  - Setting
 ---
 ### 반동
 

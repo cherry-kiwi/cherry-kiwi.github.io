@@ -6,6 +6,7 @@ categories:
   - UI/UX
 tags:
   - MabinogiMobile
+  - Setting
 ---
 ### 게임
 
