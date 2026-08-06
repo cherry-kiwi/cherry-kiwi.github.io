@@ -11,30 +11,31 @@ tags:
 ### 계정
 
 <img src="/assets/images/UIUX/cookierunOvenbreak/setting/IMG_1108.PNG" width="700">
-<img src="/assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0379.PNG" width="700">
-<img src="/assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0380.PNG" width="700">
+<img src="/assets/images/UIUX/cookierunOvenbreak/setting/IMG_1109.PNG" width="700">
+<img src="/assets/images/UIUX/cookierunOvenbreak/setting/IMG_1110.PNG" width="700">
+<img src="/assets/images/UIUX/cookierunOvenbreak/setting/IMG_1111.PNG" width="700">
 
 ---
-### 게임 플레이
+### 게임
 
-<img src="/assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0371.PNG" width="700">
-
----
-
-### 사운드
-
-<img src="/assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0372.PNG" width="700">
-
----
-
-### 그래픽
-
-<img src="/assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0373.PNG" width="700">
-<img src="/assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0374.PNG" width="700">
+<img src="/assets/images/UIUX/cookierunOvenbreak/setting/IMG_1112.PNG" width="700">
+<img src="/assets/images/UIUX/cookierunOvenbreak/setting/IMG_1113.PNG" width="700">
+<img src="/assets/images/UIUX/cookierunOvenbreak/setting/IMG_1114.PNG" width="700">
+<img src="/assets/images/UIUX/cookierunOvenbreak/setting/IMG_1115.PNG" width="700">
+<img src="/assets/images/UIUX/cookierunOvenbreak/setting/IMG_1116.PNG" width="700">
+<img src="/assets/images/UIUX/cookierunOvenbreak/setting/IMG_1117.PNG" width="700">
+<img src="/assets/images/UIUX/cookierunOvenbreak/setting/IMG_1118.PNG" width="700">
 
 ---
 
-### 기타
+### 알림
 
-<img src="/assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0376.PNG" width="700">
-<img src="/assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0377.PNG" width="700">
+<img src="/assets/images/UIUX/cookierunOvenbreak/setting/IMG_1119.PNG" width="700">
+<img src="/assets/images/UIUX/cookierunOvenbreak/setting/IMG_1120.PNG" width="700">
+<img src="/assets/images/UIUX/cookierunOvenbreak/setting/IMG_1121.PNG" width="700">
+
+---
+
+### 언어
+
+<img src="/assets/images/UIUX/cookierunOvenbreak/setting/IMG_1122.PNG" width="700">
