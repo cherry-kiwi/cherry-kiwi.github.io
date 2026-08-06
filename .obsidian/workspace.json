@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-08-06-maplestory-idle-rpg.md",
+                "file": "_posts/2026-08-06-maplestory-idle-rpg-setting-UI-UX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-06-maplestory-idle-rpg"
+              "title": "2026-08-06-maplestory-idle-rpg-setting-UI-UX"
             }
           }
         ]
@@ -213,32 +213,32 @@
   },
   "active": "1239cac7428353c4",
   "lastOpenFiles": [
-    "_posts/2026-08-06-mabinogi-mobile-UI-UX.md",
-    "_posts/2026-08-06-maplestory-idle-rpg.md",
+    "_posts/2026-08-06-mabinogi-mobile-setting-UI-UX.md",
+    "_posts/2026-08-06-maplestory-idle-rpg-setting-UI-UX.md",
+    "_posts/2026-08-06-archero-setting-UI-UX.md",
+    "assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0377.PNG",
+    "assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0376.PNG",
+    "assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0374.PNG",
+    "assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0373.PNG",
+    "assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0372.PNG",
+    "assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0371.PNG",
+    "assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0370.PNG",
+    "assets/images/UIUX/maplestoryIdleRPG/setting",
+    "assets/images/UIUX/maplestoryIdleRPG/Setting",
+    "assets/images/UIUX/maplestoryIdleRPG/새 폴더",
     "assets/images/UIUX/maplestoryIdleRPG/IMG_0373.PNG",
     "assets/images/UIUX/maplestoryIdleRPG/IMG_0377.PNG",
     "assets/images/UIUX/maplestoryIdleRPG/IMG_0374.PNG",
-    "assets/images/UIUX/maplestoryIdleRPG/IMG_0371.PNG",
-    "assets/images/UIUX/maplestoryIdleRPG/IMG_0376.PNG",
-    "assets/images/UIUX/maplestoryIdleRPG/IMG_0372.PNG",
-    "assets/images/UIUX/maplestoryIdleRPG/IMG_0370.PNG",
     "assets/images/UIUX/maplestoryIdleRPG",
     "assets/images/UIUX/maplestory",
     "assets/images/UIUX/maple",
     "assets/images/UIUX/새 폴더",
     "_layouts/tags.html",
     "tags.md",
-    "_posts/2026-08-06-archero-UI-UX.md",
     "_posts/2026-08-03-mabinogi-mobile-fantasy-life-challenge.md",
-    "assets/images/UIUX/archero/setting/IMG_1106.png",
-    "assets/images/UIUX/archero/setting/IMG_1105.png",
     "assets/images/UIUX/archero/setting",
     "assets/images/UIUX/archero",
     "_posts/2026-03-23-게임 경제 디자인-다중 재화 역할 분담형 경제.md",
-    "assets/images/UIUX/mabinogi/setting/IMG_0341.PNG",
-    "assets/images/UIUX/mabinogi/setting",
-    "assets/images/UIUX/mabinogi",
-    "assets/images/UIUX",
     "_posts/2026-02-25-pixel-flow-linear-level-design-analysis.md",
     "_posts/2026-03-17-게임 경제 디자인-패턴과 밸런스 설계.md",
     "_posts/2026-03-22-게임 경제 디자인-이중 통화 경제의 이해.md",
@@ -257,7 +257,6 @@
     "index.md",
     "CHANGELOG.md",
     "Game Analysis.md",
-    "archive.md",
-    "about.md"
+    "archive.md"
   ]
 }
