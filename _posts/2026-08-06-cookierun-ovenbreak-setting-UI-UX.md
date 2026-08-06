@@ -10,7 +10,7 @@ tags:
 ---
 ### 계정
 
-<img src="/assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0370.PNG" width="700">
+<img src="/assets/images/UIUX/cookierunOvenbreak/setting/IMG_1108.PNG" width="700">
 <img src="/assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0379.PNG" width="700">
 <img src="/assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0380.PNG" width="700">
 
