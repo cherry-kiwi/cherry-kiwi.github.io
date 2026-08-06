@@ -10,37 +10,34 @@ tags:
 ---
 ### 게임
 
-<img src="/assets/images/UIUX/cookierunKingdom/setting/1" width="700">
-<img src="/assets/images/UIUX/cookierunKingdom/setting/2" width="700">
-<img src="/assets/images/UIUX/cookierunKingdom/setting/3" width="700">
-<img src="/assets/images/UIUX/cookierunKingdom/setting/4" width="700">
-<img src="/assets/images/UIUX/cookierunKingdom/setting/3" width="700">
-<img src="/assets/images/UIUX/cookierunKingdom/setting/스크린샷 2026-08-06 145011.PNG" width="700">
-<img src="/assets/images/UIUX/cookierunKingdom/setting/스크린샷 2026-08-06 145022.PNG" width="700">
-<img src="/assets/images/UIUX/cookierunKingdom/setting/스크린샷 2026-08-06 145030.PNG" width="700">
-<img src="/assets/images/UIUX/cookierunKingdom/setting/스크린샷 2026-08-06 145045.PNG" width="700">
+<img src="/assets/images/UIUX/cookierunKingdom/setting/1.png" width="700">
+<img src="/assets/images/UIUX/cookierunKingdom/setting/2.png" width="700">
+<img src="/assets/images/UIUX/cookierunKingdom/setting/3.png" width="700">
+<img src="/assets/images/UIUX/cookierunKingdom/setting/4.png" width="700">
+<img src="/assets/images/UIUX/cookierunKingdom/setting/5.png" width="700">
+<img src="/assets/images/UIUX/cookierunKingdom/setting/6.png" width="700">
+<img src="/assets/images/UIUX/cookierunKingdom/setting/7.png" width="700">
+<img src="/assets/images/UIUX/cookierunKingdom/setting/8.png" width="700">
 
 ---
-### 게임
-
-<img src="/assets/images/UIUX/cookierunOvenbreak/setting/IMG_1112.PNG" width="700">
-<img src="/assets/images/UIUX/cookierunOvenbreak/setting/IMG_1113.PNG" width="700">
-<img src="/assets/images/UIUX/cookierunOvenbreak/setting/IMG_1114.PNG" width="700">
-<img src="/assets/images/UIUX/cookierunOvenbreak/setting/IMG_1115.PNG" width="700">
-<img src="/assets/images/UIUX/cookierunOvenbreak/setting/IMG_1116.PNG" width="700">
-<img src="/assets/images/UIUX/cookierunOvenbreak/setting/IMG_1117.PNG" width="700">
-<img src="/assets/images/UIUX/cookierunOvenbreak/setting/IMG_1118.PNG" width="700">
-
----
-
 ### 알림
 
-<img src="/assets/images/UIUX/cookierunOvenbreak/setting/IMG_1119.PNG" width="700">
-<img src="/assets/images/UIUX/cookierunOvenbreak/setting/IMG_1120.PNG" width="700">
-<img src="/assets/images/UIUX/cookierunOvenbreak/setting/IMG_1121.PNG" width="700">
+<img src="/assets/images/UIUX/cookierunKingdom/setting/9.png" width="700">
+<img src="/assets/images/UIUX/cookierunKingdom/setting/10.png" width="700">
+<img src="/assets/images/UIUX/cookierunKingdom/setting/11.png" width="700">
+<img src="/assets/images/UIUX/cookierunKingdom/setting/12.png" width="700">
+<img src="/assets/images/UIUX/cookierunKingdom/setting/13.png" width="700">
+<img src="/assets/images/UIUX/cookierunKingdom/setting/14.png" width="700">
+<img src="/assets/images/UIUX/cookierunKingdom/setting/15.png" width="700">
 
 ---
 
 ### 언어
 
-<img src="/assets/images/UIUX/cookierunOvenbreak/setting/IMG_1122.PNG" width="700">
+<img src="/assets/images/UIUX/cookierunKingdom/setting/16.png" width="700">
+
+---
+
+### 정보
+
+<img src="/assets/images/UIUX/cookierunKingdom/setting/17.png" width="700">
