@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-03-23-게임 경제 디자인-다중 재화 역할 분담형 경제.md",
+                "file": "_posts/2026-08-06-archero-UI-UX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-23-게임 경제 디자인-다중 재화 역할 분담형 경제"
+              "title": "2026-08-06-archero-UI-UX"
             }
           }
         ]
@@ -213,8 +213,14 @@
   },
   "active": "1239cac7428353c4",
   "lastOpenFiles": [
-    "_posts/2026-08-03-mabinogi-mobile-fantasy-life-challenge.md",
     "_posts/2026-08-06-mabinogi-mobile-UI-UX.md",
+    "_posts/2026-08-06-archero-UI-UX.md",
+    "_posts/2026-08-03-mabinogi-mobile-fantasy-life-challenge.md",
+    "assets/images/UIUX/archero/setting/IMG_1106.png",
+    "assets/images/UIUX/archero/setting/IMG_1105.png",
+    "assets/images/UIUX/archero/setting",
+    "assets/images/UIUX/archero",
+    "_posts/2026-03-23-게임 경제 디자인-다중 재화 역할 분담형 경제.md",
     "assets/images/UIUX/mabinogi/setting/IMG_0341.PNG",
     "assets/images/UIUX/mabinogi/setting/IMG_0339.PNG",
     "assets/images/UIUX/mabinogi/setting/IMG_0343.PNG",
@@ -223,14 +229,11 @@
     "assets/images/UIUX/mabinogi/setting/IMG_0351.PNG",
     "assets/images/UIUX/mabinogi/setting/IMG_0353.PNG",
     "assets/images/UIUX/mabinogi/setting/IMG_0345.PNG",
-    "assets/images/UIUX/mabinogi/setting/IMG_0350.PNG",
-    "assets/images/UIUX/mabinogi/setting/IMG_0352.PNG",
     "assets/images/UIUX/mabinogi/setting",
     "assets/images/UIUX/mabinogi",
     "assets/images/UIUX",
     "_posts/2026-02-25-pixel-flow-linear-level-design-analysis.md",
     "_posts/2026-03-17-게임 경제 디자인-패턴과 밸런스 설계.md",
-    "_posts/2026-03-23-게임 경제 디자인-다중 재화 역할 분담형 경제.md",
     "_posts/2026-03-22-게임 경제 디자인-이중 통화 경제의 이해.md",
     "assets/images/Analysis/2026-02-25",
     "assets/images/Analysis",
@@ -243,8 +246,6 @@
     "_posts/2026-08-02-game-analysis.md",
     "_site/lecture/2026/08/02/게임-경제-디자인-패턴과-밸런스-설계.html",
     "_site/lecture/2026/08/02",
-    "_site/lecture/2026/08",
-    "_site/lecture/2026",
     "_posts/2026-03-09-slay-the-spire.md",
     "_site/README.md.md",
     "Templates/2026-08-02-templete.md",
@@ -256,7 +257,6 @@
     "Game Analysis.md",
     "archive.md",
     "about.md",
-    "글 작성 가이드.md",
-    "_posts/2026-08-02-first-post.md"
+    "글 작성 가이드.md"
   ]
 }
