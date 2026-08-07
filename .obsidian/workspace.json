@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 248.5
   },
   "right": {
     "id": "3a134650d16ae10f",
@@ -202,6 +202,9 @@
   },
   "active": "1239cac7428353c4",
   "lastOpenFiles": [
+    "assets/images/Lecture/게임경제/게임경제9강썸넬.png",
+    "assets/images/Lecture/게임경제/Pasted image 20260807234733.png",
+    "assets/images/Pasted image 20260807234733.png",
     "_posts/2026-03-09-slay-the-spire-analysis.md",
     "tags.md",
     "assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0380.PNG",
@@ -212,8 +215,6 @@
     "assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0376.PNG",
     "assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0371.PNG",
     "assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0372.PNG",
-    "assets/images/UIUX/maplestoryIdleRPG/setting/IMG_0370.PNG",
-    "assets/images/UIUX/mabinogi/setting/IMG_0363.PNG",
     "assets/images/UIUX/maplestoryIdleRPG/setting",
     "assets/images/UIUX/mabinogi/setting",
     "assets/images/UIUX/legendOfMushroom/setting",
@@ -246,7 +247,6 @@
     "_site/README.md.md",
     "Templates/2026-08-02-templete.md",
     "blog/index.md",
-    "README.md.md",
-    "README.md"
+    "README.md.md"
   ]
 }
