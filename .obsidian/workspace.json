@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-03-30-게임 경제 디자인-하이리스크 경제 구조.md",
+                "file": "_posts/2026-03-31-게임 경제 디자인-게임 재화의 적정 수량과 설계 기준.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-30-게임 경제 디자인-하이리스크 경제 구조"
+              "title": "2026-03-31-게임 경제 디자인-게임 재화의 적정 수량과 설계 기준"
             }
           }
         ]
@@ -213,6 +213,9 @@
   },
   "active": "1239cac7428353c4",
   "lastOpenFiles": [
+    "assets/images/Pasted image 20260813194100.png",
+    "_posts/2026-03-30-게임 경제 디자인-하이리스크 경제 구조.md",
+    "_posts/2026-03-31-게임 경제 디자인-게임 재화의 적정 수량과 설계 기준.md",
     "assets/images/Lecture/게임경제/게임경제15강이미지10.png",
     "assets/images/Lecture/게임경제/게임경제15강이미지9.png",
     "assets/images/Lecture/게임경제/게임경제15강이미지8.png",
@@ -223,13 +226,11 @@
     "assets/images/Lecture/게임경제/게임경제15강이미지3.png",
     "assets/images/Lecture/게임경제/게임경제15강이미지2.png",
     "assets/images/Lecture/게임경제/게임경제15강이미지1.png",
-    "assets/images/Lecture/게임경제/게임경제15강썸넬.png",
     "_posts/2026-08-03-mabinogi-mobile-fantasy-life-challenge.md",
     "_posts/2026-03-26-게임 경제 디자인-재화 축적 한도형 패턴.md",
     "_posts/2026-03-27-게임 경제 디자인-회전 상점과 FOMO 패턴.md",
     "_posts/2026-03-28-게임 경제 디자인-플레이어 주도 경제.md",
     "_posts/2026-03-29-게임 경제 디자인-런 기반 리셋 경제와 세션 루프 패턴.md",
-    "_posts/2026-03-30-게임 경제 디자인-하이리스크 경제 구조.md",
     "_posts/2026-03-22-게임 경제 디자인-이중 통화 경제의 이해.md",
     "_posts/2026-03-17-게임 경제 디자인-패턴과 밸런스 설계.md",
     "_posts/2026-03-23-게임 경제 디자인-다중 재화 역할 분담형 경제.md",
@@ -257,7 +258,6 @@
     "_posts/2026-08-06-cookierun-ovenbreak-setting-UI-UX.md",
     "_posts/2026-08-06-cookierun-kingdom-setting-UI-UX.md",
     "_posts/2026-08-06-archero-setting-UI-UX.md",
-    "_posts/2026-03-19-게임 경제 디자인-코어 플레이 루프와 경제 시스템.md",
-    "_posts/2026-03-12-게임 경제 디자인-패턴과 밸런스 설계.md"
+    "_posts/2026-03-19-게임 경제 디자인-코어 플레이 루프와 경제 시스템.md"
   ]
 }
