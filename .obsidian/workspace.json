@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-03-31-게임 경제 디자인-게임 재화의 적정 수량과 설계 기준.md",
+                "file": "_posts/2026-04-01-게임 경제 디자인-가격 상승 곡선의 설계와 템포 조절.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-31-게임 경제 디자인-게임 재화의 적정 수량과 설계 기준"
+              "title": "2026-04-01-게임 경제 디자인-가격 상승 곡선의 설계와 템포 조절"
             }
           }
         ]
@@ -213,19 +213,20 @@
   },
   "active": "1239cac7428353c4",
   "lastOpenFiles": [
+    "assets/images/Pasted image 20260813210424.png",
+    "assets/images/Pasted image 20260813210355.png",
+    "assets/images/Pasted image 20260813210334.png",
+    "assets/images/Pasted image 20260813210315.png",
+    "assets/images/Pasted image 20260813210302.png",
+    "assets/images/Pasted image 20260813210245.png",
+    "assets/images/Pasted image 20260813210226.png",
+    "assets/images/Pasted image 20260813210145.png",
+    "assets/images/Pasted image 20260813210045.png",
+    "_posts/2026-03-31-게임 경제 디자인-게임 재화의 적정 수량과 설계 기준.md",
+    "_posts/2026-04-01-게임 경제 디자인-가격 상승 곡선의 설계와 템포 조절.md",
     "assets/images/Lecture/게임경제/게임경제16강이미지7.png",
     "assets/images/Lecture/게임경제/게임경제16강이미지6.png",
-    "assets/images/Lecture/게임경제/게임경제16강이미지5.png",
-    "assets/images/Lecture/게임경제/게임경제16강이미지4.png",
-    "assets/images/Lecture/게임경제/게임경제16강이미지3.png",
-    "assets/images/Lecture/게임경제/게임경제16강이미지2.png",
-    "assets/images/Lecture/게임경제/게임경제16강이미지1.png",
-    "assets/images/Lecture/게임경제/게임경제16강썸넬.png",
-    "assets/images/게임경제16강이미지7.png",
-    "assets/images/게임경제16강이미지6.png",
-    "assets/images/게임경제16강이미지5.png",
     "_posts/2026-03-30-게임 경제 디자인-하이리스크 경제 구조.md",
-    "_posts/2026-03-31-게임 경제 디자인-게임 재화의 적정 수량과 설계 기준.md",
     "_posts/2026-08-03-mabinogi-mobile-fantasy-life-challenge.md",
     "_posts/2026-03-26-게임 경제 디자인-재화 축적 한도형 패턴.md",
     "_posts/2026-03-27-게임 경제 디자인-회전 상점과 FOMO 패턴.md",
@@ -257,7 +258,6 @@
     "_posts/2026-08-06-idle-demon-king-setting-UI-UX.md",
     "_posts/2026-08-06-cookierun-ovenbreak-setting-UI-UX.md",
     "_posts/2026-08-06-cookierun-kingdom-setting-UI-UX.md",
-    "_posts/2026-08-06-archero-setting-UI-UX.md",
-    "_posts/2026-03-19-게임 경제 디자인-코어 플레이 루프와 경제 시스템.md"
+    "_posts/2026-08-06-archero-setting-UI-UX.md"
   ]
 }
